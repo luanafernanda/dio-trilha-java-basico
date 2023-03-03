@@ -1,0 +1,56 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ParEImpar",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.ParEImpar",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BoletimEstudante",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.BoletimEstudante",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
+      "name": "MaiorEMedia",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.MaiorEMedia",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.MinhaClasse",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
+      "name": "Terminal",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.Terminal",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
+      "name": "UsuarioTv",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.UsuarioTv",
+      "projectName": "orange tech+_728679d0"
+    }
+  ]
+}
