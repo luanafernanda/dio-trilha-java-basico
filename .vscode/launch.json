@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Tabuada",
+      "request": "launch",
+      "mainClass": "edu.luana.primeirasemana.Tabuada",
+      "projectName": "orange tech+_728679d0"
+    },
+    {
+      "type": "java",
       "name": "ParEImpar",
       "request": "launch",
       "mainClass": "edu.luana.primeirasemana.ParEImpar",
